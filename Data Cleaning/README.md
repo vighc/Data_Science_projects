@@ -1,7 +1,5 @@
-# Data_Science_projects
-This is the Assesment from TCS Wing1 T3 Machine learning
-
-[Link to DataSet](https://drive.google.com/uc?id=1EKcA7vVG8ea9KSkjq98RpwPMpASPJuD8)
+# Data Cleaning
+This is the Data Cleaning Assesment from TCS Wing1 T3 Machine learning
 
 Questions: 
 1. What is the standard deviation of maximum windspeed across all the days
