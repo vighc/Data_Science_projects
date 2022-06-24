@@ -13,4 +13,4 @@ Questions:
 7. Find the range of averange temperature on Dec 2010
 8. Out of all available records which day has the highest difference between maximum_pressure and minimum_pressure
 9. How many days falls under median (i.e equal to median value) of barrometer reading.
-10. Out of all the available records how many days are within one standard deviation of average temperaturem
+10. Out of all the available records how many days are within one standard deviation of average temperature
